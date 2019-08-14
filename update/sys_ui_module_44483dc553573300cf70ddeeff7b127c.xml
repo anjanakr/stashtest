@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="post">04483dc553573300cf70ddeeff7b127a</application>
+        <filter/>
+        <name>posts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_stashtest.post_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-08-14 15:30:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44483dc553573300cf70ddeeff7b127c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>posts</sys_name>
+        <sys_package display_value="stashtest" source="x_stashtest">ed287d8553573300cf70ddeeff7b1293</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stashtest">ed287d8553573300cf70ddeeff7b1293</sys_scope>
+        <sys_update_name>sys_ui_module_44483dc553573300cf70ddeeff7b127c</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-08-14 15:30:40</sys_updated_on>
+        <table>x_stashtest_post</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
