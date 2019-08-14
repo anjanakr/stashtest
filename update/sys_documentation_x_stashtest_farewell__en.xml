@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="missing" language="en" table="x_stashtest_missing">
+    <sys_documentation element="" label="farewell" language="en" table="x_stashtest_farewell">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>missing</label>
+            <label>farewell</label>
             <language>en</language>
-            <name>x_stashtest_missing</name>
-            <plural>missings</plural>
+            <name>x_stashtest_farewell</name>
+            <plural>farewells</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>anjana</sys_created_by>
-            <sys_created_on>2019-08-14 15:33:21</sys_created_on>
-            <sys_id>a090a2c953133300cf70ddeeff7b12f5</sys_id>
+            <sys_created_on>2019-08-14 18:27:23</sys_created_on>
+            <sys_id>6cb0220d53133300cf70ddeeff7b1267</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>missing</sys_name>
+            <sys_name>farewell</sys_name>
             <sys_package display_value="stashtest" source="x_stashtest">ed287d8553573300cf70ddeeff7b1293</sys_package>
             <sys_policy/>
             <sys_scope display_value="stashtest">ed287d8553573300cf70ddeeff7b1293</sys_scope>
-            <sys_update_name>sys_documentation_x_stashtest_missing__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_stashtest_farewell__en</sys_update_name>
             <sys_updated_by>anjana</sys_updated_by>
-            <sys_updated_on>2019-08-14 15:33:21</sys_updated_on>
+            <sys_updated_on>2019-08-14 18:27:23</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
