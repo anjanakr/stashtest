@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="gopi" label="Gopi" language="en" table="x_stashtest_gopi">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>gopi</element>
+            <help/>
+            <hint/>
+            <label>Gopi</label>
+            <language>en</language>
+            <name>x_stashtest_gopi</name>
+            <plural>Gopis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-29 17:03:59</sys_created_on>
+            <sys_id>d17d93f9b7633300cf70e2b9de11a95f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Gopi</sys_name>
+            <sys_package display_value="stashtest" source="x_stashtest">ed287d8553573300cf70ddeeff7b1293</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="stashtest">ed287d8553573300cf70ddeeff7b1293</sys_scope>
+            <sys_update_name>sys_documentation_x_stashtest_gopi_gopi_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-29 17:03:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
